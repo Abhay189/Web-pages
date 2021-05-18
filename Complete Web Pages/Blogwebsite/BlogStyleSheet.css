@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Roboto Mono', monospace;
+    margin: auto;
+    margin-bottom: 10px;
+    width: fit-content;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+}
+
+.row{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #E9642F;
+    border: 1px solid black;
+    align-items: center;
+    margin: 20px;
+}
+
+#para{
+    font-family: 'Roboto Slab', serif;
+    font-style: italic;
+    /* background-color: #1BC0C0; */
+    margin: 20px;
+}
+
+img{
+    margin: 20px ;
+    float: left;
+    transition: all 1s;
+}
+img:hover{
+    transform: scale(1.1);
+}
