@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+}
+#DataEntry{
+    text-align: center;
+}
+
+.ItemList{
+    display: table;
+    margin: 20px auto;
+}
+
+.poof{
+    text-decoration: line-through;
+}
